@@ -1,6 +1,8 @@
 # Visual Question Difficulty (VQD)
 
-The code of "Which visual questions are difficult to answer? Analysis with Entropy of Answer Distributions"
+The code of "Which visual questions are difficult to answer? Analysis with Entropy of Answer Distributions" 
+- https://arxiv.org/abs/2004.05595
+
 This paper analysis the VQA v2.0 dataset and
 proposes a clustering approach for finding difficult visual questions to answer.
 There are 10 clusters, and the difficulty increases from cluster 0 (easyest) to clsuter 9 (hardest).
