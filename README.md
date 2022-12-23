@@ -1,7 +1,9 @@
 # Visual Question Difficulty (VQD)
 
-The code of "Which visual questions are difficult to answer? Analysis with Entropy of Answer Distributions" 
-- https://arxiv.org/abs/2004.05595
+The code and results of
+
+- Kento Terao, Toru Tamaki, Bisser Raytchev, Kazufumi Kaneda, Shun'ichi Satoh, "An Entropy Clustering Approach for Assessing Visual Question Difficulty," in IEEE Access, vol. 8, pp. 180633-180645, 2020. https://doi.org/10.1109/ACCESS.2020.3022063
+- Kento Terao, Toru Tamaki, Bisser Raytchev, Kazufumi Kaneda, Shun'ichi Satoh, "Which visual questions are difficult to answer? Analysis with Entropy of Answer Distributions", https://arxiv.org/abs/2004.05595
 
 This paper analysis the VQA v2.0 dataset and
 proposes a clustering approach for finding difficult visual questions to answer.
